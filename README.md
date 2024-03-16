@@ -9,11 +9,11 @@ https://github.com/Moniia/Trick7-Name-elevatorr/assets/155805252/cbca3c2a-4152-4
 <br></br>
 
 
-🔗 [Demo Project](https://moniia.github.io/Trick5-Menu-rotate/)
+🔗 [Demo Project](https://moniia.github.io/Trick7-Name-elevatorr/)
 
 👩🏻‍💻 Developed by Mona Aminian
 
-📆 Created - 2024-03-19
+📆 Created - 2024-03-23
 
 ✔️ Technologies Used - Html5, Css3,Sass,Animation
 
